@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cosm1f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosm1f@esm/index.mjs';
+import cosm1f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosm1f@v0.1.0-esm/index.mjs';
 ```
 
 #### cosm1f( x )
@@ -84,7 +84,7 @@ v = cosm1f( NaN );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-pi@esm/index.mjs';
-import cosm1f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosm1f@esm/index.mjs';
+import cosm1f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cosm1f@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
